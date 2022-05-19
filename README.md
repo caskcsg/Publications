@@ -65,17 +65,17 @@
 # 2019
 [1]	Shangwen Lv, Wanhui Qian, Longtao Huang, Jizhong Han, Songlin Hu. SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next. In AAAI 2019: 6802-6809. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/4_lv_AAAI19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
-[2]	Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han, Songlin Hu. Mask and Infill: Applying Masked Language Model to Sentiment Transfer. In IJCAI 2019: 5271-5277. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/5_wu_IJCAI19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[2]	Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han, Songlin Hu. Mask and Infill: Applying Masked Language Model to Sentiment Transfer. In IJCAI 2019: 5271-5277. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/5_wu_IJCAI19.pdf) [[CODE]](https://github.com/caskcsg/MLM_transfer)
 
-[3]	Yan Zhou, Longtao Huang, Tao Guo, Jizhong Han, Songlin Hu. A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classification. In IJCAI 2019: 5485-5491. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/6_zhou_IJCAI19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[3]	Yan Zhou, Longtao Huang, Tao Guo, Jizhong Han, Songlin Hu. A Span-based Joint Model for Opinion Target Extraction and Target Sentiment Classification. In IJCAI 2019: 5485-5491. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/6_zhou_IJCAI19.pdf) \[CODE\]
 
-[4]	Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han, Songlin Hu. Jointly embedding the local and global relations of heterogeneous graph for rumor detection. In ICDM 2019: 796-805. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/11_yuan_ICDM19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[4]	Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han, Songlin Hu. Jointly embedding the local and global relations of heterogeneous graph for rumor detection. In ICDM 2019: 796-805. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/11_yuan_ICDM19.pdf) [[CODE]](https://github.com/caskcsg/RumorDetection)
 
-[5]	Chunyuan Yuan, Wei Zhou, Mingming Li, Shangwen Lv, Fuqing Zhu, Jizhong Han, Songlin Hu. Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots. In EMNLP-IJCNLP 2019: 111-120. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/7_yuan_EMNLP19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[5]	Chunyuan Yuan, Wei Zhou, Mingming Li, Shangwen Lv, Fuqing Zhu, Jizhong Han, Songlin Hu. Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots. In EMNLP-IJCNLP 2019: 111-120. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/7_yuan_EMNLP19.pdf) [[CODE]](https://github.com/caskcsg/Dialogue)
 
-[6]	Jinrong Guo, Wantao Liu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks. In ICCD 2019: 65-72. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/30_guo_ICCD19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[6]	Jinrong Guo, Wantao Liu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks. In ICCD 2019: 65-72. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/30_guo_ICCD19.pdf)
 
-[7]	Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu. Conditional BERT Contextual Augmentation. ICCS 2019: 84-95. [[PDF]](http://kcsg.net/papers/12_wu_ICCS2018.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[7]	Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu. Conditional BERT Contextual Augmentation. ICCS 2019: 84-95. [[PDF]](http://kcsg.net/papers/12_wu_ICCS2018.pdf) [[CODE]](https://github.com/caskcsg/cbert_aug)
 
-[8]	Weibo Zhang, Fuqing Zhu, Jiao Dai, Songlin Hu, Jizhong Han, Tao Guo. SPL: Exploiting Unlabeled Data for Multi-Label Image Classification. In ICME 2019: 157-162. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/8_zhang_ICME19.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
+[8]	Weibo Zhang, Fuqing Zhu, Jiao Dai, Songlin Hu, Jizhong Han, Tao Guo. SPL: Exploiting Unlabeled Data for Multi-Label Image Classification. In ICME 2019: 157-162. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/8_zhang_ICME19.pdf) [[CODE]](https://github.com/caskcsg/SPL)
 
