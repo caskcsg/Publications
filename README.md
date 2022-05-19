@@ -25,7 +25,7 @@
 
 [2]	Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu. Label-Specific Dual Graph Neural Network for Multi-Label Text Classification. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_2021.acl-long.pdf) \[CODE\]
 
-[3]	Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis. In AAAI 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/zhou_aaai2021.pdf) \[CODE\]
+[3]	Yan Zhou, Fuqing Zhu, Pu Song, Jizhong Han, Tao Guo, Songlin Hu. An Adaptive Hybrid Framework for Cross-domain Aspect-based Sentiment Analysis. In AAAI 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/zhou_aaai2021.pdf) [[CODE]](https://github.com/caskcsg/ABSA)
 
 [4]	Jinzhu Yang, Ding Wang, Wei Zhou, Wanhui Qian, Xin Wang, Jizhong Han, Songlin Hu. Entity and Relation Matching Consensus for Entity Alignment. In CIKM 2021: 2331-2341. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/yang_cikm2021.pdf) \[CODE\]
 
