@@ -40,15 +40,15 @@
 
 [2]	Mingming Li, Shuai Zhang, Fuqing Zhu, Wanhui Qian, Liangjun Zang, Jizhong Han, Songlin Hu. Symmetric Metric Learning with Adaptive Margin for Recommendation. In AAAI 2020: 4634-4641. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/2_li_AAAI2020.pdf) [[CODE]](https://github.com/caskcsg/SML)
 
-[3]	Jinrong Guo, Songlin Hu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu. Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. In DAC 2020. CCF-A regular paper. \[PDF\]
+[3]	Jinrong Guo, Songlin Hu, Wang Wang, Chunrong Yao, Jizhong Han, Ruixuan Li, Yijun Lu. Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. In DAC 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/guo_DAC2020.pdf)
 
 [4]	Chunyuan Yuan, Qianwen Ma, Junyang Chen, Wei Zhou, Xiaodan Zhang, Xuehai Tang, Jizhong Han, Songlin Hu. Exploiting Heterogeneous Artist and Listener Preference Graph for Music Genre Classification. In ACM MM 2020. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/57_Yuan_MM%202020.pdf) [[CODE]](https://github.com/caskcsg/MusicGenre)
 
-[5]	Jinrong Guo, Wantao Liu, Wang Wang, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. Accelerating Distributed Deep Learning By Adaptive Gradient Quantization. In ICASSP 2020. CCF-B regular paper. \[PDF\]
+[5]	Jinrong Guo, Wantao Liu, Wang Wang, Jizhong Han, Ruixuan Li, Yijun Lu, Songlin Hu. Accelerating Distributed Deep Learning By Adaptive Gradient Quantization. In ICASSP 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/guo_ICASSP2020.pdf)
 
-[6]	Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, Songlin Hu. DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction. In ECML-PKDD 2020. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/DyHGCN)
+[6]	Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, Songlin Hu. DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Yuan_ECML-PKDD2020.pdf) [[CODE]](https://github.com/caskcsg/DyHGCN)
 
-[7]	Lingwei Wei, Dou Hu, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis. In ECML-PKDD 2020. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/HIN-SR)
+[7]	Lingwei Wei, Dou Hu, Wei Zhou, Xuehai Tang, Xiaodan Zhang, Xin Wang, Jizhong Han, Songlin Hu. Hierarchical Interaction Networks with Rethinking Mechanism for Document-level Sentiment Analysis. In ECML-PKDD 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wei_ECML-PKDD2020.pdf) [[CODE]](https://github.com/caskcsg/HIN-SR)
 
 [8]	Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han and Songlin Hu. Early Detection of Fake News by Utilizing the Credibility of News, Publishers, and Users Based on Weakly Supervised Learning. In COLING 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/56_Yuan_COLING%202020.pdf) [[CODE]](https://github.com/caskcsg/FakeNewsDetection)
 
@@ -56,7 +56,7 @@
 
 [10] Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, Songlin Hu. RE-GCN. Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs. In DASFAA 2020: 432-447. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/58_Yang_DASFAA2020.pdf) \[CODE\]
 
-[11] Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. \[PDF\] \[CODE\]
+[11] Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. [[PDF]](http://kcsg.net/papers/Lv_WWWJ2020.pdf) \[CODE\]
 
 [12] Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu. Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. In WSDM 2020: 411-419. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/3_ma_WSDM2020.pdf) \[CODE\]
 
