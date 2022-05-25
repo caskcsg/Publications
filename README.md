@@ -63,7 +63,7 @@
 [13] Yan Zhou, Wei Jiang, Po Song, Yipeng Su, Tao Guo, Jizhong Han, Songlin Hu. Graph Convolutional Networks for Target-oriented Opinion Words Extraction with Adversarial Training. In IJCNN 2020. Best Student Paper Award. [[PDF]](http://kcsg.net/papers/59_zhou_IJCNN2020.pdf) \[CODE\]
 
 # 2019
-[1]	Shangwen Lv, Wanhui Qian, Longtao Huang, Jizhong Han, Songlin Hu. SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next. In AAAI 2019: 6802-6809. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/4_lv_AAAI19.pdf) [[CODE]](https://github.com/caskcsg/SAM-Net)
+[1]	Shangwen Lv, Wanhui Qian, Longtao Huang, Jizhong Han, Songlin Hu. SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next. In AAAI 2019: 6802-6809. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/4_lv_AAAI19.pdf) \[CODE\]
 
 [2]	Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han, Songlin Hu. Mask and Infill: Applying Masked Language Model to Sentiment Transfer. In IJCAI 2019: 5271-5277. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/5_wu_IJCAI19.pdf) [[CODE]](https://github.com/caskcsg/MLM_transfer)
 
