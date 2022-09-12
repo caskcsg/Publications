@@ -20,7 +20,7 @@
 
 [10] Xing Wu, Chaochen Gao, Meng Lin, Liangjun Zang, Songlin Hu. Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks. In ACL 2022. CCF-A Main conference short paper. [[PDF]](http://kcsg.net/papers/wu_acl-short.pdf) [[CODE]](https://github.com/caskcsg/TextSmoothing)
 
-[11] Cai Yu, Peng Chen, Jiao Dai, Xi Wang, Weibo Zhang, Jin Liu, Jizhong Han. FOCUS BY PRIOR: DEEPFAKE DETECTION BASED ON PRIOR-ATTENTION. In ICME 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/9859897/) [[CODE]](https://github.com/caskcsg/TextSmoothing)
+[11] Cai Yu, Peng Chen, Jiao Dai, Xi Wang, Weibo Zhang, Jin Liu, Jizhong Han. FOCUS BY PRIOR: DEEPFAKE DETECTION BASED ON PRIOR-ATTENTION. In ICME 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/9859897/) [[CODE]](https://github.com/caskcsg/FOCUS-BY-PRIOR)
 
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
