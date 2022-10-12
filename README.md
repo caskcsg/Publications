@@ -22,6 +22,8 @@
 
 [11] Cai Yu, Peng Chen, Jiao Dai, Xi Wang, Weibo Zhang, Jin Liu, Jizhong Han. FOCUS BY PRIOR: DEEPFAKE DETECTION BASED ON PRIOR-ATTENTION. In ICME 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/9859897/) [[CODE]](https://github.com/caskcsg/FOCUS-BY-PRIOR)
 
+[12]	Chuanpeng Yang, Fuqing Zhu, Guihua Liu, Jizhong Han, and Songlin Hu. Multimodal Hate Speech Detection via Cross-Domain Knowledge Transfer In ACM MM 2022. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548255) [[CODE]](https://github.com/caskcsg/CDKT)
+
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
@@ -80,4 +82,3 @@
 [7]	Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu. Conditional BERT Contextual Augmentation. ICCS 2019: 84-95. [[PDF]](http://kcsg.net/papers/12_wu_ICCS2018.pdf) [[CODE]](https://github.com/caskcsg/cbert_aug)
 
 [8]	Weibo Zhang, Fuqing Zhu, Jiao Dai, Songlin Hu, Jizhong Han, Tao Guo. SPL: Exploiting Unlabeled Data for Multi-Label Image Classification. In ICME 2019: 157-162. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/8_zhang_ICME19.pdf) [[CODE]](https://github.com/caskcsg/SPL)
-
