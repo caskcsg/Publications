@@ -24,7 +24,7 @@
 
 [12]	Chuanpeng Yang, Fuqing Zhu, Guihua Liu, Jizhong Han, and Songlin Hu. Multimodal Hate Speech Detection via Cross-Domain Knowledge Transfer. In ACM MM 2022. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548255) [[CODE]](https://github.com/caskcsg/CDKT)
 
-[13] Xiaohui Song, Longtao Huang, Hui Xue and Songlin Hu. Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation. In EMNLP 2022. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/SPCL)
+[13] Xiaohui Song, Longtao Huang, Hui Xue and Songlin Hu. Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation. In EMNLP 2022. CCF-B regular paper. [[PDF]](https://arxiv.org/abs/2210.08713) [[CODE]](https://github.com/caskcsg/SPCL)
 
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
