@@ -36,7 +36,7 @@
 
 [18] Ziming Li, Yan Zhou, Weibo Zhang, Yaxin Liu, Chuanpeng Yang, Zheng Lian, Songlin Hu. AMOA: Global Acoustic Feature Enhanced Modal-Order-Aware Network for Multimodal Sentiment Analysis. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.623.pdf) [[CODE]](https://github.com/caskcsg/AMOA)
 
-[19] Wang Wang, Xuehai Tang, Biyu Zhou, Wenjie Xiao, Jizhong Han, Songlin Hu. Improving disk failure detection accuracy via data augmentation. In IWQoS 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+[19] Wang Wang, Xuehai Tang, Biyu Zhou, Wenjie Xiao, Jizhong Han, Songlin Hu. Improving disk failure detection accuracy via data augmentation. In IWQoS 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812864) \[CODE\]
 
 
 # 2021
