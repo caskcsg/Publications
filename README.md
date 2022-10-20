@@ -26,6 +26,19 @@
 
 [13] Xiaohui Song, Longtao Huang, Hui Xue and Songlin Hu. Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation. In EMNLP 2022. CCF-B regular paper. [[PDF]](https://arxiv.org/abs/2210.08713) [[CODE]](https://github.com/caskcsg/SPCL)
 
+[14] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Uncertainty-aware Propagation Structure Reconstruction for Fake News Detection. In COLING 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+
+[15] Lingwei Wei, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu. A Unified Propagation Forest-based Framework for Fake News Detection. In COLING 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+
+[16] Xing Wu, Chaochen Gao, Liangjun Zang, Jizhong Han, Zhongyuan Wang, Songlin Hu. ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding. In COLING 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+
+[17] Xing Wu, Chaochen Gao, Yipeng Su, Jizhong Han, Zhongyuan Wang, Songlin Hu. Smoothed Contrastive Learning for Unsupervised Sentence Embedding. In COLING 2022. CCF-B short paper. \[PDF\] \[CODE\]
+
+[18] Ziming Li, Yan Zhou, Weibo Zhang, Yaxin Liu, Chuanpeng Yang, Zheng Lian, Songlin Hu. AMOA: Global Acoustic Feature Enhanced Modal-Order-Aware Network for Multimodal Sentiment Analysis. In COLING 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+
+[19] Wang Wang, Xuehai Tang, Biyu Zhou, Wenjie Xiao, Jizhong Han, Songlin Hu. Improving disk failure detection accuracy via data augmentation. In IWQoS 2022. CCF-B regular paper. \[PDF\] \[CODE\]
+
+
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
 
