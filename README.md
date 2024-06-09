@@ -1,4 +1,12 @@
 ## Publications
+# 2024
+[1] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. Structured Probabilistic Coding. In AAAI 2024. CCF-A regular paper. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29142) [[CODE]](https://github.com/caskcsg/SPC)
+
+[2] Yinan Bao, Dou Hu, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. Multi-stream Information Fusion Framework for Emotional Support Conversation. In COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1046.pdf)
+
+[3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf)
+
+
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
@@ -16,21 +24,21 @@
 
 [8] Shuchong Wei, Liangjun Zang, Xiaobin Zhang, Xiaohui Song, Songlin Hu. Improving Event Representation with Supervision from Available Semantic Resources. In DASFAA 2023. CCF-B regular paper. [PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_47) \[CODE\]
 
-[9]	Xing Wu, Guangyuan Ma, Wanhui Qian, Zijia Lin, Songlin Hu. Query-as-context Pre-training for Dense Passage Retrieval. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.118.pdf) \[CODE\]
+[9]	Xing Wu, Guangyuan Ma, Wanhui Qian, Zijia Lin, Songlin Hu. Query-as-context Pre-training for Dense Passage Retrieval. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.118.pdf) [[CODE]](https://github.com/caskcsg/ir)
 
 [10] Jinchuan Zhang, Yan Zhou, Binyuan Hui, Yaxin Liu, Ziming Li, Songlin Hu. TrojanSQL: SQL Injection against Natural Language Interface to Database. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.264.pdf) [[CODE]](https://github.com/caskcsg/trojan-sql)
 
-[11] Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu. CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.340.pdf) [[CODE]](https://github.com/caskcsg/trojan-sql)
+[11] Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu. CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.340.pdf) [[CODE]](https://github.com/caskcsg/CT-GAT)
 
-[12] Guangyuan Ma, Hongtao Liu, Xing Wu, Wanhui Qian, Zhepeng Lv, Qing Yang, Songlin Hu. PUNR: Pre-training with User Behavior Modeling for News Recommendation. EMNLP (Findings) 2023: 8338-8347
+[12] Guangyuan Ma, Hongtao Liu, Xing Wu, Wanhui Qian, Zhepeng Lv, Qing Yang, Songlin Hu. PUNR: Pre-training with User Behavior Modeling for News Recommendation. In EMNLP 2023. CCF-B Findings long paper. [PDF]](https://aclanthology.org/2023.findings-emnlp.559.pdf) [[CODE]](https://github.com/caskcsg/punr)
 
-[13] Chuanpeng Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. Invariant Meets Specific. A Scalable Harmful Memes Detection Framework. ACM Multimedia 2023: 4788-4797
+[13] Chuanpeng Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. Invariant Meets Specific. A Scalable Harmful Memes Detection Framework. In ACM MM 2023. CCF-A regular paper. [PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611761) [[CODE]](https://github.com/caskcsg/ISM)
 
-[14] Dongqin Liu, Wentao Li, Wei Zhou, Zhaoxing Li, Jiao Dai, Jizhong Han, Ruixuan Li, Songlin Hu: Semantic Stage-Wise Learning for Knowledge Distillation. ICME 2023: 816-821. CCF-B.
+[14] Dongqin Liu, Wentao Li, Wei Zhou, Zhaoxing Li, Jiao Dai, Jizhong Han, Ruixuan Li, Songlin Hu. Semantic Stage-Wise Learning for Knowledge Distillation. In ICME 2023. CCF-B regular paper. [PDF]](https://ieeexplore.ieee.org/document/10219880) \[CODE\]
 
-[15] Boyu Qiao, Kun Li, Wei Zhou, Zhou Yan, Shilong Li, Songlin Hu: Social Bot Detection Based on Window Strategy. ICME 2023: 2201-2206. Semantic Stage-Wise Learning for Knowledge Distillation. CCF-B.
+[15] Boyu Qiao, Kun Li, Wei Zhou, Zhou Yan, Shilong Li, Songlin Hu. Social Bot Detection Based on Window Strategy. In ICME 2023. CCF-B regular paper. [PDF]](https://ieeexplore.ieee.org/document/10219649) \[CODE\]
 
-[16] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu: UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis. SemEval@ACL 2023: 1849-1857. CCF-A.
+[16] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis. SemEval@ACL 2023. [PDF]](https://aclanthology.org/2023.semeval-1.255.pdf) [[CODE]](https://github.com/caskcsg/SACL)
 
 
 # 2022
