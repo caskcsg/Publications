@@ -12,7 +12,7 @@
 
 [2] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu. ConTextual Masked Auto-Encoder for Dense Passage Retrieval. In AAAI 2023. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2208.07670) [[CODE]](https://github.com/caskcsg/ir)
 
-[3] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection. TMM 2023. CCF-B regular paper. [[PDF]] (https://ieeexplore.ieee.org/document/10261246) \[CODE\]
+[3] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection. TMM 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10261246) \[CODE\]
 
 [4] Dou Hu, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations. In ACL 2023. CCF-A regular paper. [[PDF]](https://aclanthology.org/2023.acl-long.606.pdf) [[CODE]](https://github.com/caskcsg/SACL)
 
@@ -28,7 +28,7 @@
 
 [10] Jinchuan Zhang, Yan Zhou, Binyuan Hui, Yaxin Liu, Ziming Li, Songlin Hu. TrojanSQL: SQL Injection against Natural Language Interface to Database. In EMNLP 2023. CCF-B regular paper. [[PDF]](https://aclanthology.org/2023.emnlp-main.264.pdf) [[CODE]](https://github.com/caskcsg/trojan-sql)
 
-[11] Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu. CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.340.pdf) [[CODE]](https://github.com/caskcsg/CT-GAT)
+[11] Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu. CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability. In EMNLP 2023. CCF-B regular paper. [[PDF]](https://aclanthology.org/2023.emnlp-main.340.pdf) [[CODE]](https://github.com/caskcsg/CT-GAT)
 
 [12] Guangyuan Ma, Hongtao Liu, Xing Wu, Wanhui Qian, Zhepeng Lv, Qing Yang, Songlin Hu. PUNR: Pre-training with User Behavior Modeling for News Recommendation. In EMNLP 2023. CCF-B Findings long paper. [[PDF]](https://aclanthology.org/2023.findings-emnlp.559.pdf) [[CODE]](https://github.com/caskcsg/punr)
 
