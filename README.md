@@ -1,16 +1,27 @@
 ## Publications
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu: HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. IEEE ACM Trans. Audio Speech Lang. Process. 31: 2272-2285 (2023). CCF-B. 
+
 [2] Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu: KR-GCN: Knowledge-Aware Reasoning with Graph Convolution Network for Explainable Recommendation. ACM Trans. Inf. Syst. 41(1): 4:1-4:27 (2023). CCF-A. 【通讯作者】
+
 [3] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu: ConTextual Masked Auto-Encoder for Dense Passage Retrieval. AAAI 2023: 4738-4746. CCF-A.【通讯作者】
+
 [4] Dou Hu, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu: Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations. ACL (1) 2023: 10835-10852. CCF-A. 【通讯作者】
+
 [5] Ziming Li, Yan Zhou, Yaxin Liu, Fuqing Zhu, Chuanpeng Yang, Songlin Hu: QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition. ACL (Findings) 2023: 12191-12204. CCF-A.
+
 [6] Weigang Zhang, Biyu Zhou, Xuehai Tang, Zhaoxing Wang, Songlin Hu: MixPipe: Efficient Bidirectional Pipeline Parallelism for Training Large-Scale Models. DAC 2023: 1-6. CCF-A.
+
 [7] Ziang Yang, Biyu Zhou, Xuehai Tang, Ruixuan Li, Songlin Hu: Orthrus: A Dual-Branch Model for Time Series Forecasting with Multiple Exogenous Series. DASFAA (1) 2023: 177-187. CCF-B.
+
 [8] Shuchong Wei, Liangjun Zang, Xiaobin Zhang, Xiaohui Song, Songlin Hu: Improving Event Representation with Supervision from Available Semantic Resources. DASFAA (3) 2023: 639-648. CCF-B.
+
 [9] Zhanchao Gao, Lingwei Wei, Wei Zhou, Meng Lin, Songlin Hu: A Method of Social Context Enhanced User Preferences for Conversational Recommender Systems. ICCS (4) 2023: 202-216
+
 [10] Dongqin Liu, Wentao Li, Wei Zhou, Zhaoxing Li, Jiao Dai, Jizhong Han, Ruixuan Li, Songlin Hu: Semantic Stage-Wise Learning for Knowledge Distillation. ICME 2023: 816-821. CCF-B.
+
 [11] Boyu Qiao, Kun Li, Wei Zhou, Zhou Yan, Shilong Li, Songlin Hu: Social Bot Detection Based on Window Strategy. ICME 2023: 2201-2206. Semantic Stage-Wise Learning for Knowledge Distillation. CCF-B.
+
 [12] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu: UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis. SemEval@ACL 2023: 1849-1857. CCF-A.
 
 
