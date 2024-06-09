@@ -65,6 +65,8 @@
 
 [19] Wang Wang, Xuehai Tang, Biyu Zhou, Wenjie Xiao, Jizhong Han, Songlin Hu. Improving disk failure detection accuracy via data augmentation. In IWQoS 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812864) \[CODE\]
 
+[20] Kun Li, Meng Lin, Songlin Hu, Ruixuan Li. CLZT: A Contrastive Learning Based Framework for Zero-Shot Text Classification. In DASFAA 2022. CCF-B regular paper. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_45)
+
 
 # 2021
 [1]	Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu. Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection. In ACL-IJCNLP 2021. CCF-A regular paper. [[PDF]](http://kcsg.net/papers/wei_2021.acl-long.pdf) [[CODE]](https://github.com/caskcsg/EBGCN)
