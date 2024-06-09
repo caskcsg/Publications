@@ -10,7 +10,7 @@
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
-[2] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu. ConTextual Masked Auto-Encoder for Dense Passage Retrieval. In AAAI 2023. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2208.07670) [[CODE]](https://github.com/caskcsg/ir)
+[2] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu. ConTextual Masked Auto-Encoder for Dense Passage Retrieval. In AAAI 2023. CCF-A regular paper. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/25598) [[CODE]](https://github.com/caskcsg/ir)
 
 [3] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection. TMM 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10261246) \[CODE\]
 
@@ -64,9 +64,9 @@
 
 [11] Cai Yu, Peng Chen, Jiao Dai, Xi Wang, Weibo Zhang, Jin Liu, Jizhong Han. FOCUS BY PRIOR: DEEPFAKE DETECTION BASED ON PRIOR-ATTENTION. In ICME 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/9859897/) [[CODE]](https://github.com/caskcsg/FOCUS-BY-PRIOR)
 
-[12]	Chuanpeng Yang, Fuqing Zhu, Guihua Liu, Jizhong Han, and Songlin Hu. Multimodal Hate Speech Detection via Cross-Domain Knowledge Transfer. In ACM MM 2022. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548255) [[CODE]](https://github.com/caskcsg/CDKT)
+[12] Chuanpeng Yang, Fuqing Zhu, Guihua Liu, Jizhong Han, and Songlin Hu. Multimodal Hate Speech Detection via Cross-Domain Knowledge Transfer. In ACM MM 2022. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548255) [[CODE]](https://github.com/caskcsg/CDKT)
 
-[13] Xiaohui Song, Longtao Huang, Hui Xue and Songlin Hu. Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation. In EMNLP 2022. CCF-B regular paper. [[PDF]](https://arxiv.org/abs/2210.08713) [[CODE]](https://github.com/caskcsg/SPCL)
+[13] Xiaohui Song, Longtao Huang, Hui Xue and Songlin Hu. Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation. In EMNLP 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.emnlp-main.347.pdf) [[CODE]](https://github.com/caskcsg/SPCL)
 
 [14] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Uncertainty-aware Propagation Structure Reconstruction for Fake News Detection. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.243.pdf)  \[CODE\]
 
