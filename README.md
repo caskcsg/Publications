@@ -1,29 +1,36 @@
 ## Publications
 # 2023
-[1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu: HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. IEEE ACM Trans. Audio Speech Lang. Process. 31: 2272-2285 (2023). CCF-B. 
+[1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
-[2] Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu: KR-GCN: Knowledge-Aware Reasoning with Graph Convolution Network for Explainable Recommendation. ACM Trans. Inf. Syst. 41(1): 4:1-4:27 (2023). CCF-A. 【通讯作者】
+[2] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu. ConTextual Masked Auto-Encoder for Dense Passage Retrieval. In AAAI 2023. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2208.07670) [[CODE]](https://github.com/caskcsg/ir)
 
-[3] Xing Wu, Guangyuan Ma, Meng Lin, Zijia Lin, Zhongyuan Wang, Songlin Hu: ConTextual Masked Auto-Encoder for Dense Passage Retrieval. AAAI 2023: 4738-4746. CCF-A.【通讯作者】
+[3] Lingwei Wei, Dou Hu, Wei Zhou, Songlin Hu. Modeling Both Intra- and Inter-Modality Uncertainty for Multimodal Fake News Detection. TMM 2023. CCF-B regular paper. [[PDF]] (https://ieeexplore.ieee.org/document/10261246) \[CODE\]
 
-[4] Dou Hu, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu: Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations. ACL (1) 2023: 10835-10852. CCF-A. 【通讯作者】
+[4] Dou Hu, Yinan Bao, Lingwei Wei, Wei Zhou, Songlin Hu. Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations. In ACL 2023. CCF-A regular paper. [PDF]](https://aclanthology.org/2023.acl-long.606.pdf) [[CODE]](https://github.com/caskcsg/SACL)
 
-[5] Ziming Li, Yan Zhou, Yaxin Liu, Fuqing Zhu, Chuanpeng Yang, Songlin Hu: QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition. ACL (Findings) 2023: 12191-12204. CCF-A.
+[5] Ziming Li, Yan Zhou, Yaxin Liu, Fuqing Zhu, Chuanpeng Yang, Songlin Hu. QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition. In ACL 2023. CCF-A Findings long paper. [PDF]](https://aclanthology.org/2023.findings-acl.772.pdf) [[CODE]](https://github.com/caskcsg/QAP)
 
-[6] Weigang Zhang, Biyu Zhou, Xuehai Tang, Zhaoxing Wang, Songlin Hu: MixPipe: Efficient Bidirectional Pipeline Parallelism for Training Large-Scale Models. DAC 2023: 1-6. CCF-A.
+[6] Weigang Zhang, Biyu Zhou, Xuehai Tang, Zhaoxing Wang, Songlin Hu. MixPipe: Efficient Bidirectional Pipeline Parallelism for Training Large-Scale Models. In DAC 2023. CCF-A regular paper. [PDF]](https://ieeexplore.ieee.org/document/10247730) \[CODE\]
 
-[7] Ziang Yang, Biyu Zhou, Xuehai Tang, Ruixuan Li, Songlin Hu: Orthrus: A Dual-Branch Model for Time Series Forecasting with Multiple Exogenous Series. DASFAA (1) 2023: 177-187. CCF-B.
+[7] Ziang Yang, Biyu Zhou, Xuehai Tang, Ruixuan Li, Songlin Hu. Orthrus: A Dual-Branch Model for Time Series Forecasting with Multiple Exogenous Series. In DASFAA 2023. CCF-B regular paper. [PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_12) \[CODE\]
 
-[8] Shuchong Wei, Liangjun Zang, Xiaobin Zhang, Xiaohui Song, Songlin Hu: Improving Event Representation with Supervision from Available Semantic Resources. DASFAA (3) 2023: 639-648. CCF-B.
+[8] Shuchong Wei, Liangjun Zang, Xiaobin Zhang, Xiaohui Song, Songlin Hu. Improving Event Representation with Supervision from Available Semantic Resources. In DASFAA 2023. CCF-B regular paper. [PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_47) \[CODE\]
 
-[9] Zhanchao Gao, Lingwei Wei, Wei Zhou, Meng Lin, Songlin Hu: A Method of Social Context Enhanced User Preferences for Conversational Recommender Systems. ICCS (4) 2023: 202-216
+[9]	Xing Wu, Guangyuan Ma, Wanhui Qian, Zijia Lin, Songlin Hu. Query-as-context Pre-training for Dense Passage Retrieval. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.118.pdf) \[CODE\]
 
-[10] Dongqin Liu, Wentao Li, Wei Zhou, Zhaoxing Li, Jiao Dai, Jizhong Han, Ruixuan Li, Songlin Hu: Semantic Stage-Wise Learning for Knowledge Distillation. ICME 2023: 816-821. CCF-B.
+[10] Jinchuan Zhang, Yan Zhou, Binyuan Hui, Yaxin Liu, Ziming Li, Songlin Hu. TrojanSQL: SQL Injection against Natural Language Interface to Database. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.264.pdf) [[CODE]](https://github.com/caskcsg/trojan-sql)
 
-[11] Boyu Qiao, Kun Li, Wei Zhou, Zhou Yan, Shilong Li, Songlin Hu: Social Bot Detection Based on Window Strategy. ICME 2023: 2201-2206. Semantic Stage-Wise Learning for Knowledge Distillation. CCF-B.
+[11] Minxuan Lv, Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu. CT-GAT: Cross-Task Generative Adversarial Attack based on Transferability. In EMNLP 2023. CCF-B regular paper. [PDF]](https://aclanthology.org/2023.emnlp-main.340.pdf) [[CODE]](https://github.com/caskcsg/trojan-sql)
 
-[12] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu: UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis. SemEval@ACL 2023: 1849-1857. CCF-A.
+[12] Guangyuan Ma, Hongtao Liu, Xing Wu, Wanhui Qian, Zhepeng Lv, Qing Yang, Songlin Hu. PUNR: Pre-training with User Behavior Modeling for News Recommendation. EMNLP (Findings) 2023: 8338-8347
 
+[13] Chuanpeng Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. Invariant Meets Specific. A Scalable Harmful Memes Detection Framework. ACM Multimedia 2023: 4788-4797
+
+[14] Dongqin Liu, Wentao Li, Wei Zhou, Zhaoxing Li, Jiao Dai, Jizhong Han, Ruixuan Li, Songlin Hu: Semantic Stage-Wise Learning for Knowledge Distillation. ICME 2023: 816-821. CCF-B.
+
+[15] Boyu Qiao, Kun Li, Wei Zhou, Zhou Yan, Shilong Li, Songlin Hu: Social Bot Detection Based on Window Strategy. ICME 2023: 2201-2206. Semantic Stage-Wise Learning for Knowledge Distillation. CCF-B.
+
+[16] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu: UCAS-IIE-NLP at SemEval-2023 Task 12: Enhancing Generalization of Multilingual BERT for Low-resource Sentiment Analysis. SemEval@ACL 2023: 1849-1857. CCF-A.
 
 
 # 2022
@@ -65,7 +72,9 @@
 
 [19] Wang Wang, Xuehai Tang, Biyu Zhou, Wenjie Xiao, Jizhong Han, Songlin Hu. Improving disk failure detection accuracy via data augmentation. In IWQoS 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812864) \[CODE\]
 
-[20] Kun Li, Meng Lin, Songlin Hu, Ruixuan Li. CLZT: A Contrastive Learning Based Framework for Zero-Shot Text Classification. In DASFAA 2022. CCF-B regular paper. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_45)
+[20] Lingwei Wei, Dou Hu, Wei Zhou, Xin Wang, Songlin Hu. Modeling the Uncertainty of Information Propagation for Rumor Detection: A Neuro-Fuzzy Approach. TNNLS 2022. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/9837882) \[CODE\]
+
+[21] Kun Li, Meng Lin, Songlin Hu, Ruixuan Li. CLZT: A Contrastive Learning Based Framework for Zero-Shot Text Classification. In DASFAA 2022. CCF-B regular paper. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_45) \[CODE\]
 
 
 # 2021
