@@ -2,9 +2,9 @@
 # 2024
 [1] Dou Hu, Lingwei Wei, Yaxin Liu, Wei Zhou, Songlin Hu. Structured Probabilistic Coding. In AAAI 2024. CCF-A regular paper. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/29142) [[CODE]](https://github.com/caskcsg/SPC)
 
-[2] Yinan Bao, Dou Hu, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. Multi-stream Information Fusion Framework for Emotional Support Conversation. In COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1046.pdf) \[CODE\]
+[2] Yinan Bao, Dou Hu, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. Multi-stream Information Fusion Framework for Emotional Support Conversation. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1046.pdf) \[CODE\]
 
-[3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf) \[CODE\]
+[3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf) \[CODE\]
 
 
 # 2023
