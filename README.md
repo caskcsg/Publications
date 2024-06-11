@@ -96,7 +96,7 @@
 
 [5]	Ting Ma, Shangwen Lv, Longtao Huang, Songlin Hu. HiAM: A Hierarchical Attention based Model for knowledge graph multi-hop reasoning. Neural Networks 143: 261-270 (2021). CCF-B regular paper. [[PDF]](http://kcsg.net/papers/ma_nn2021.pdf) \[CODE\]
 
-[6]	Jinzhu Yang, Wei Zhou, Wanhui Qian, Jizhong Han, Songlin Hu. Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/yang_icassp21.pdf) \[CODE\]
+[6]	Jinzhu Yang, Wei Zhou, Wanhui Qian, Jizhong Han, Songlin Hu. Topic Sequence Embedding for User Identity Linkage from Heterogeneous Behavior Data. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/yang_icassp21.pdf) [[CODE]](https://github.com/caskcsg/TSeqE)
 
 [7]	Wanhui Qian, Fuqing Zhu, Jinzhu Yang, Jizhong Han, Songlin Hu. Aligning the Training and Evaluation of Unsupervised Text Style Transfer. In ICASSP 2021. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/qian_icassp21.pdf) \[CODE\]
 
@@ -119,7 +119,7 @@
 
 [9]	Shangwen Lv, Fuqing Zhu, Songlin Hu. Integrating External Event Knowledge for Script Learning. In COLING 2020. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/55_Lv_COLING2020.pdf) \[CODE\]
 
-[10] Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, Songlin Hu. RE-GCN. Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs. In DASFAA 2020: 432-447. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/58_Yang_DASFAA2020.pdf) \[CODE\]
+[10] Jinzhu Yang, Wei Zhou, Lingwei Wei, Junyu Lin, Jizhong Han, Songlin Hu. RE-GCN. Relation Enhanced Graph Convolutional Network for Entity Alignment in Heterogeneous Knowledge Graphs. In DASFAA 2020: 432-447. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/58_Yang_DASFAA2020.pdf) [[CODE]](https://github.com/caskcsg/REGCN)
 
 [11] Shangwen Lv, Longtao Huang, Liangjun Zang, Wei Zhou, Jizhong Han, Songlin Hu. Yet another approach to understanding news event evolution. World Wide Web J. 2020, 23(4): 2449-2470. CCF-B journal paper. [[PDF]](http://kcsg.net/papers/Lv_WWWJ2020.pdf) \[CODE\]
 
