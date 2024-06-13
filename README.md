@@ -46,7 +46,7 @@
 
 [2]	Yinan Bao, Qianwen Ma, Lingwei Wei, Wei Zhou, Songlin Hu. Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction. In ACL 2022. CCF-A Findings long paper. [[PDF]](http://kcsg.net/papers/bao_findings-acl.pdf) \[CODE\]
 
-[3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wang_dasffa2022.pdf) \[CODE\]
+[3]	Ding Wang, Lingwei Wei, ChunYuan Yuan, Yinan Bao, Wei Zhou, Xian Zhu, Songlin Hu. Cascade-Enhanced Graph Convolutional Networks for Information Diffusion Prediction. In DASFAA 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/Wang_dasffa2022.pdf) [[CODE]](https://github.com/869277160/CE-GCN)
 
 [4]	Xiaobin Zhang, Liangjun Zang, Peng Cheng, Yuqi Wang, Songlin Hu. A Knowledge/Data Enhanced Method for Joint Event and Temporal Relation Extraction. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/zhangxiaobin_icassp2022.pdf) [[CODE]](https://github.com/caskcsg/KJETE)
 
