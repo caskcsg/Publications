@@ -72,9 +72,9 @@
 
 [15] Lingwei Wei, Dou Hu, Yantong Lai, Wei Zhou, Songlin Hu. A Unified Propagation Forest-based Framework for Fake News Detection. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.244.pdf) \[CODE\]  
 
-[16] Xing Wu, Chaochen Gao, Liangjun Zang, Jizhong Han, Zhongyuan Wang, Songlin Hu. ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.342.pdf) \[CODE\]
+[16] Xing Wu, Chaochen Gao, Liangjun Zang, Jizhong Han, Zhongyuan Wang, Songlin Hu. ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.342.pdf) [[CODE]](https://github.com/caskcsg/sentemb/tree/main/ESimCSE)
 
-[17] Xing Wu, Chaochen Gao, Yipeng Su, Jizhong Han, Zhongyuan Wang, Songlin Hu. Smoothed Contrastive Learning for Unsupervised Sentence Embedding. In COLING 2022. CCF-B short paper. [[PDF]](https://aclanthology.org/2022.coling-1.434.pdf) \[CODE\]  
+[17] Xing Wu, Chaochen Gao, Yipeng Su, Jizhong Han, Zhongyuan Wang, Songlin Hu. Smoothed Contrastive Learning for Unsupervised Sentence Embedding. In COLING 2022. CCF-B short paper. [[PDF]](https://aclanthology.org/2022.coling-1.434.pdf) [[CODE]](https://github.com/caskcsg/sentemb/tree/main/gsInfoNCE)
 
 [18] Ziming Li, Yan Zhou, Weibo Zhang, Yaxin Liu, Chuanpeng Yang, Zheng Lian, Songlin Hu. AMOA: Global Acoustic Feature Enhanced Modal-Order-Aware Network for Multimodal Sentiment Analysis. In COLING 2022. CCF-B regular paper. [[PDF]](https://aclanthology.org/2022.coling-1.623.pdf) [[CODE]](https://github.com/caskcsg/AMOA)
 
