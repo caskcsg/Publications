@@ -6,7 +6,7 @@
 
 [3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf) \[CODE\]
 
-[4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) \[CODE\]
+[4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) [[CODE]](https://github.com/caskcsg/PCMT)
 
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
@@ -55,7 +55,7 @@
 
 [6]	Xiaohui Song, Liangjun Zang, Rong Zhang, Songlin Hu, Longtao Huang. EmotionFlow: Capture the Dialogue Level Emotion Transitions. In ICASSP 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/song_icassp2022.pdf) [[CODE]](https://github.com/caskcsg/emotionflow)
 
-[7]	Zhuohua Li, Weibo Zhang, Ziang Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. UFI: a Unified Feature Interaction framework for Multi-Label Image Classification. In ICME 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/li_icme2022.pdf) \[CODE\]
+[7]	Zhuohua Li, Weibo Zhang, Ziang Yang, Fuqing Zhu, Jizhong Han, Songlin Hu. UFI: a Unified Feature Interaction framework for Multi-Label Image Classification. In ICME 2022. CCF-B regular paper. [[PDF]](http://kcsg.net/papers/li_icme2022.pdf) [[CODE]](https://github.com/caskcsg/UFI)
 
 [8]	Ting Ma, Longtao Huang, Qianqian Lu, Songlin Hu. KR-GCN: Knowledge-aware Reasoning with Graph Convolution Network for Explainable Recommendation. TOIS 2022.CCF-A regular paper. [[PDF]](http://kcsg.net/papers/ma_tois2022.pdf) \[CODE\]
 
