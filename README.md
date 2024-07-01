@@ -4,7 +4,7 @@
 
 [2] Yinan Bao, Dou Hu, Lingwei Wei, Shuchong Wei, Wei Zhou, Songlin Hu. Multi-stream Information Fusion Framework for Emotional Support Conversation. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1046.pdf) \[CODE\]
 
-[3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf) [[CODE]](https://github.com/caskcsg/PCMT)
+[3] Chuanpeng Yang, Fuqing Zhu, Yaxin Liu, Jizhong Han, Songlin Hu. Uncertainty-Aware Cross-Modal Alignment for Hate Speech Detection. In LREC-COLING 2024. CCF-B regular paper. [[PDF]](https://aclanthology.org/2024.lrec-main.1475.pdf) [[CODE]](https://github.com/caskcsg/UCA)
 
 [4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) [[CODE]](https://github.com/caskcsg/PCMT)
 
