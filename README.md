@@ -8,6 +8,8 @@
 
 [4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) [[CODE]](https://github.com/caskcsg/PCMT)
 
+[5] Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection. In ICMR 2024. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/PSS-TL)
+
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
