@@ -10,6 +10,10 @@
 
 [5] Mengyang Chen, Lingwei Wei, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu. Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection. In ECML-PKDD 2024. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/PSS-TL)
 
+[6] Dou Hu, Lingwei Wei, Wei Zhou, Songlin Hu. Representation Learning with Conditional Information Flow Maximization. In ACL 2024. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2406.05510) [[CODE]](https://github.com/caskcsg/CIFM)
+
+[7] Chuanpeng Yang, Yaxin Liu, Fuqing Zhu, Jizhong Han, Songlin Hu. Uncertainty-Guided Modal Rebalance for Hateful Memes Detection. In ACL 2024. CCF-A regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/UMR)
+
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
