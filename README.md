@@ -8,11 +8,13 @@
 
 [4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) [[CODE]](https://github.com/caskcsg/PCMT)
 
-[5] Mengyang Chen, Lingwei Wei, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu. Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection. In ECML-PKDD 2024. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/PSS-TL)
+[5] Guangyuan Ma, Xing Wu, Zijia Lin, Songlin Hu. Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval. In SIGIR 2024. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657792) \[CODE\]
 
-[6] Dou Hu, Lingwei Wei, Wei Zhou, Songlin Hu. Representation Learning with Conditional Information Flow Maximization. In ACL 2024. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2406.05510) [[CODE]](https://github.com/caskcsg/CIFM)
+[6] Mengyang Chen, Lingwei Wei, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu. Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection. In ECML-PKDD 2024. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/PSS-TL)
 
-[7] Chuanpeng Yang, Yaxin Liu, Fuqing Zhu, Jizhong Han, Songlin Hu. Uncertainty-Guided Modal Rebalance for Hateful Memes Detection. In ACL 2024. CCF-A regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/UMR)
+[7] Dou Hu, Lingwei Wei, Wei Zhou, Songlin Hu. Representation Learning with Conditional Information Flow Maximization. In ACL 2024. CCF-A regular paper. [[PDF]](https://arxiv.org/pdf/2406.05510) [[CODE]](https://github.com/caskcsg/CIFM)
+
+[8] Chuanpeng Yang, Yaxin Liu, Fuqing Zhu, Jizhong Han, Songlin Hu. Uncertainty-Guided Modal Rebalance for Hateful Memes Detection. In ACL 2024. CCF-A regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/UMR)
 
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
