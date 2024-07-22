@@ -8,7 +8,7 @@
 
 [4]	Zhuohua Li, Ruyun Wang, Fuqing Zhu, Jizhong Han, Songlin Hu. Pyramidal Cross-Modal Transformer with Sustained Visual Guidance for Multi-Label Image Classification. In ICMR 2024. CCF-B regular paper. [[PDF]](https://dl.acm.org/doi/10.1145/3652583.3658005) [[CODE]](https://github.com/caskcsg/PCMT)
 
-[5] Guangyuan Ma, Xing Wu, Zijia Lin, Songlin Hu. Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval. In SIGIR 2024. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657792) \[CODE\]
+[5] Guangyuan Ma, Xing Wu, Zijia Lin, Songlin Hu. Drop your Decoder: Pre-training with Bag-of-Word Prediction for Dense Passage Retrieval. In SIGIR 2024. CCF-A regular paper. [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657792) [[CODE]](https://github.com/caskcsg/bowdpr) 
 
 [6] Mengyang Chen, Lingwei Wei, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu. Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection. In ECML-PKDD 2024. CCF-B regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/PSS-TL)
 
