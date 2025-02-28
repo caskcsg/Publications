@@ -16,6 +16,8 @@
 
 [8] Chuanpeng Yang, Yaxin Liu, Fuqing Zhu, Jizhong Han, Songlin Hu. Uncertainty-Guided Modal Rebalance for Hateful Memes Detection. In ACL 2024. CCF-A regular paper. \[PDF\] [[CODE]](https://github.com/caskcsg/UMR)
 
+[9] Mengyang Chen, Lingwei Wei, Han Cao, Wei Zhou, Zhou Yan, Songlin Hu. Explore the Potential of LLMs in Misinformation Detection: An Empirical Study. In AAAI 2025 Workshop on Preventing and Detecting LLM Misinformation (PDLM) \[PDF\] [[CODE]](https://github.com/caskcsg/Explore-the-Potential-of-LLMs-in-Misinformation-Detection-An-Empirical-Study)
+
 # 2023
 [1] Yaxin Liu, Yan Zhou, Ziming Li, Junlin Wang, Wei Zhou, Songlin Hu. HIM: An End-to-End Hierarchical Interaction Model for Aspect Sentiment Triplet Extraction. TASLP 2023. CCF-B regular paper. [[PDF]](https://ieeexplore.ieee.org/document/10143223) \[CODE\]
 
